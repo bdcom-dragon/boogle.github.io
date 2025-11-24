@@ -12,15 +12,16 @@
   </style>
 </head>
 <body>
-  <h1>Boogle Search</h1>
+  <div class="page-center">
+    <h1 class="logo">Boogle</h1>
 
-  <div class="search-container" style="justify-content:center;">
-    <label for="searchInput" class="sr-only">Search Boogle</label>
-    <input type="search" id="searchInput" class="search-box" placeholder="Search Boogle..." autocomplete="off" />
-    <button id="searchButton" class="search-button" aria-label="Search">Search</button>
+    <div class="search-bar">
+      <input type="search" id="searchInput" placeholder="Search Boogle..." autocomplete="off" />
+      <button id="searchButton">Search</button>
+    </div>
+
+    <div id="results"></div>
   </div>
-
-  <div id="results" role="region" aria-live="polite">Results will be displayed here.</div>
 
   <script src="script.js" defer></script>
 </body>
