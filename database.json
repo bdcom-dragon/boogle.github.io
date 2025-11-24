@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Boogle Home",
+        "url": "https://bdcom-dragon-boogle.github.io",
+        "description": "The official homepage of the Boogle search engine project."
+    },
+    {
+        "title": "OpenAI",
+        "url": "https://openai.com",
+        "description": "Artificial intelligence research and development company creating advanced AI systems."
+    },
+    {
+        "title": "Mozilla Developer Network",
+        "url": "https://developer.mozilla.org",
+        "description": "Comprehensive documentation and learning resources for web developers."
+    },
+    {
+        "title": "GitHub",
+        "url": "https://github.com",
+        "description": "A platform for version control, collaboration, and open-source software projects."
+    },
+    {
+        "title": "W3Schools",
+        "url": "https://www.w3schools.com",
+        "description": "Popular resource for learning HTML, CSS, JavaScript, and web development topics."
+    },
+    {
+        "title": "Wikipedia",
+        "url": "https://www.wikipedia.org",
+        "description": "Free online encyclopedia with millions of articles across numerous topics."
+    },
+    {
+        "title": "Stack Overflow",
+        "url": "https://stackoverflow.com",
+        "description": "A Q&A platform widely used by developers to solve coding problems."
+    },
+    {
+        "title": "YouTube",
+        "url": "https://youtube.com",
+        "description": "Video-sharing platform with educational, entertainment, and informational content."
+    }
+]
