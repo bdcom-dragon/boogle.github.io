@@ -1,10 +1,11 @@
 // Assume we have a JSON database containing search data
-const data = [
-    { "title": "Page 1", "content": "This is content for page 1." },
-    { "title": "Page 2", "content": "This is content for page 2." },
-    { "title": "Page 3", "content": "This is content for page 3." },
-    // Add more items as needed
-];
+let data = [];
+
+fetch('database.json')
+    .then(response => response.json())
+    .then(json => data = json)
+    .catch(err => console.error("Database load error:", err));
+
 
 // Functionality to search through the JSON data
 function search(query) {
