@@ -1,6 +1,6 @@
 # Boogle Search Engine
 
-https://bdcom-dragon.github.io/boogle.github.io
+https://bdcom-dragon.github.io/boogle
 
 ## Project Description
 Boogle is a search engine project designed to facilitate quick and efficient searching of various online resources. It aims to deliver a reliable and user-friendly experience for finding information on the web.
