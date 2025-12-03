@@ -53,5 +53,70 @@
     "title": "Bangladesh Labour Law",
     "url": "http://bdcom.dedyn.io:5000/bangladesh_labour_law",
     "description": "Labour Law, Labor Law, Bangladesh"
+  },
+  {
+    "title": "Boogle",
+    "url": "https://bdcom-dragon.github.io/boogle.github.io",
+    "description": "Boogle, Better than Google"
+  },
+  {
+    "title": "PandaShare",
+    "url": "http://bdcom.dedyn.io:5000",
+    "description": "Panda, PandaShare, Panda TFTP, Yamin"
+  },
+  {
+    "title": "Google",
+    "url": "http://bdcom.dedyn.io:5000/bangladesh_labour_law",
+    "description": "Boogle is better than Google"
+  },
+  {
+    "title": "BDCOM Rack Management",
+    "url": "https://bit.ly/BDCOM-Rack-Management",
+    "description": "BDCOM Shared Switches, Racks, Chassis Switch, Remote Access of Switches, HPC, Remote PC"
+  },
+  {
+    "title": "Office IP Registration",
+    "url": "http://bdcom.dedyn.io:5000/ip-registration",
+    "description": "Office LAN IP Registration, Static IP, Yamin, Office Network"
+  },
+  {
+    "title": "Office Meeting Room Management",
+    "url": "http://bdcom.dedyn.io:5000/meeting-room",
+    "description": "Meeting Room Request, Meeting Schedule, Meeting Time, Weekly Meeting"
+  },
+  {
+    "title": "Office Meeting Room Management",
+    "url": "http://bdcom.dedyn.io:5000/meeting-room",
+    "description": "Meeting Room Request, Meeting Schedule, Meeting Time, Weekly Meeting"
+  },
+  {
+    "title": "Dhaka R&D Assets",
+    "url": "https://docs.qq.com/sheet/DTU16ZE5QZ0pEZE5N",
+    "description": "Office Equipment List, All assets of Office, Jerry, Asset Number, Serial Number, Switches, BDCOM"
+  },
+  {
+    "title": "CodeDE",
+    "url": "https://docs.google.com/spreadsheets/d/1cB75Uk5lGML3lweBBsuk7JPYI75IlpGH8XLqTaOLEfo/",
+    "description": "Development Environment, DE, Download, Liakot"
+  },
+  {
+    "title": "Essential Software",
+    "url": "https://mega.nz/folder/zBRhjCyJ#VP7NRp8GtaN3CX1NRWNHtA",
+    "description": "Download Essential Software, maintained by Shanto"
+  },
+  {
+    "title": "Download Public Firmware",
+    "url": "https://sites.google.com/view/bdcom-international/download/firmware/switch",
+    "description": "Download Publicly released firmware (bin), BDCOM"
+  },
+  {
+    "title": "Employee HR Guide",
+    "url": "https://tinyurl.com/BDCOM-Employee-Guide-PDF",
+    "description": "Employee Guide for regular HR Stuff, Late Arrival, Overtime"
+  },
+  {
+    "title": "BDCOM Overtime Sheet",
+    "url": "https://bit.ly/BDCOM-Overtime-Sheet",
+    "description": "Submit this sheet to HR to get Overtime Work Payment, OT, HR"
   }
 ]
