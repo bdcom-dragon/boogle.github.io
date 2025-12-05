@@ -47,7 +47,7 @@
   {
     "title": "BDCOM Attendance Policy",
     "url": "http://bdcom.dedyn.io:5000/office_attendance_policy",
-    "description": "Attendance and Leave Policy from HR"
+    "description": "Attendance, Leave, and Late Policy from HR"
   },
   {
     "title": "BDCOM Performance Evaluation Policy",
@@ -118,6 +118,11 @@
     "title": "BDCOM Overtime Sheet",
     "url": "https://tinyurl.com/BDCOM-Overtime-Sheet",
     "description": "Submit this sheet to HR to get Overtime Work Payment, OT, HR"
+  },
+  {
+    "title": "Shahriar Shanto",
+    "url": "https://t.me/ShahriarShanto",
+    "description": "Protocol 1 (IPv6) / Dhaka R&D / shahriar.shanto@bdcom.bd"
   },
   {
     "title": "BDCOM Debugging Techniques",
